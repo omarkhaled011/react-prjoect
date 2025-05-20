@@ -1,2 +1,2 @@
-# react-prjoect
+# react-project
 the first project
